@@ -1,1 +1,1 @@
-# SpeechToVocalTractVisualization
+# SpeechToVocalTract
